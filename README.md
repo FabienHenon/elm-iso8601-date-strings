@@ -1,4 +1,6 @@
-# elm-iso8601
+# elm-iso8601``
+
+**NODE : temporary package to fix this PR : https://github.com/rtfeldman/elm-iso8601-date-strings/pull/17**
 
 Convert [ISO-8601 date strings](https://en.wikipedia.org/wiki/ISO_8601) into [POSIX times](https://package.elm-lang.org/packages/elm/time/latest/Time#Posix).
 
